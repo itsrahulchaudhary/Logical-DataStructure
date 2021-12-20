@@ -1,5 +1,9 @@
 package in.rahulit.logical.normal;
-
+/*
+ * A palindromic number (also known as a numeral palindrome or a numeric palindrome) is a number 
+ *  (such as 16461) that remains the same when its digits are reversed.
+ *  eg - 131
+ */
 public class N17PalindromNumber {
 	public static void main(String[] args) {
 		int no = 122;
