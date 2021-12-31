@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
-public class A07FindDublicateElement2 {
+public class A08FindDublicateElement2 {
 
 	public static void main(String[] args) {
 
